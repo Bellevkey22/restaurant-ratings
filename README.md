@@ -7,7 +7,19 @@ In the bustling streets of Mexico, where culinary delights blend with vibrant cu
 It's the year 2012, and Mexico's restaurant scene is thriving with a multitude of flavors and experiences. The data for this project comes from a comprehensive survey conducted by a team of food enthusiasts who set out to capture the authentic opinions of real consumers regarding their dining experiences. These connoisseurs visited restaurants all across Mexico, covering bustling cities, coastal towns, and remote regions, to ensure a representative and diverse sample.
 
 # The Data:
-The dataset at hand contains restaurant ratings and feedback from thousands of consumers, each offering their unique perspectives on the culinary delights they've savored. Alongside these ratings are additional nuggets of information about each restaurant, such as location, price range, ambiance, and, most importantly, the cuisines they serve. The data also profiles each consumer, revealing their demographics, personal preferences, and frequency of dining out.
+Our dataset includes several files that provide valuable insights into the Mexican restaurant landscape:
+
+* consumer_preferences.csv: This file contains data on consumer preferences, including dietary restrictions, ambiance choices, and preferred cuisines.
+
+* consumers.csv: Here, we find profiles of the consumers who participated in the survey. The data includes demographic information such as age, gender, and location, as well as dining frequency.
+
+* data_dictionary.csv: This file serves as a guide, providing explanations for the various data fields present in the other files, ensuring clarity and ease of analysis.
+
+* ratings.csv: This crucial file contains restaurant ratings given by consumers. Each entry includes the consumer ID, the restaurant ID, and the corresponding rating provided by the consumer for that restaurant.
+
+* restaurant_cuisines.csv: This dataset sheds light on the cuisines offered by each restaurant. It includes details such as restaurant ID, cuisine type, and any specialty dishes they might be known for.
+
+* restaurants.csv: This file provides additional information about each restaurant, such as its location, price range, ambiance, and other characteristics.
 
 # Analytical Problems:
 
