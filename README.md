@@ -20,10 +20,11 @@ Our dataset includes several files that provide valuable insights into the Mexic
 * restaurant_cuisines.csv: This dataset sheds light on the cuisines offered by each restaurant. It includes details such as restaurant ID, cuisine type, and any specialty dishes they might be known for.
 
 * restaurants.csv: This file provides additional information about each restaurant, such as its location, price range, ambiance, and other characteristics.
-
+# Data Model:
+![](Resturant_model.png)
 # Analytical Problems:
 
-* Unveiling the Highest-Rated Restaurants: The first challenge in this project is to extract valuable insights from the highest-rated restaurants. What sets them apart? Do they have certain common characteristics or unique offerings that contribute to their exceptional ratings? Analyzing these top-rated establishments could provide invaluable lessons for aspiring restaurateurs.
+* Unveiling the Highest-Rated Restaurants: The first challenge in this project is to extract valuable insights from the highest-rated restaurants. What sets them apart? Do they have specific common characteristics or unique offerings that contribute to their exceptional ratings? Analyzing these top-rated establishments could provide invaluable lessons for aspiring restaurateurs.
 
 * Influence of Consumer Preferences on Ratings: It's essential to understand the relationship between consumer preferences and restaurant ratings. Are there any trends that emerge? For instance, do restaurants catering to specific preferences, such as dietary restrictions or ambiance choices, tend to receive higher ratings? This analysis can help restaurants tailor their offerings to better match their target audience's desires.
 
@@ -35,5 +36,5 @@ Our dataset includes several files that provide valuable insights into the Mexic
 
 # Conclusion:
 "Gastronomic Insights - Unveiling the Flavors of Mexico" embarks on a journey through the vibrant Mexican culinary landscape, backed by data and fueled by curiosity. By leveraging data analytics and SQL, this project seeks to unravel the secrets of successful restaurants, consumer preferences, and hidden opportunities, all while painting a vivid picture of the diverse and delicious world of Mexican cuisine. So let's embark on this tantalizing exploration, discovering new dimensions of gastronomy and making informed decisions for a flavor-packed future!
-# Source 
+# Source: 
 Maven Data Playground
