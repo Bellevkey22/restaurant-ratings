@@ -33,7 +33,9 @@ Our dataset includes several files that provide valuable insights into the Mexic
 * Uncovering Demand & Supply Gaps: The project aims to identify demand and supply gaps in the market. Are there specific cuisines or restaurant types that are highly sought after by consumers but are underrepresented in the current market? This analysis could unveil untapped opportunities for entrepreneurs and investors in the culinary industry.
 
 * Ideal Characteristics for Restaurant Investment: Lastly, the project seeks to determine which characteristics are crucial when considering investing in a restaurant. Through data analysis, we aim to identify factors that contribute to a restaurant's long-term success, including factors like location, cuisine offerings, price range, and ambiance.
-
+# Analytical Answers:
+* Unveiling the Highest-Rated Restaurants: SQL is used to extract a list of restaurants with high ratings in overall ratings, food ratings, and service ratings, the result is uploaded to Excel to identify common characteristics and unique offering through visualization
+![](Unveiling the Highest-Rated Restaurants:)
 # Conclusion:
 "Gastronomic Insights - Unveiling the Flavors of Mexico" embarks on a journey through the vibrant Mexican culinary landscape, backed by data and fueled by curiosity. By leveraging data analytics and SQL, this project seeks to unravel the secrets of successful restaurants, consumer preferences, and hidden opportunities, all while painting a vivid picture of the diverse and delicious world of Mexican cuisine. So let's embark on this tantalizing exploration, discovering new dimensions of gastronomy and making informed decisions for a flavor-packed future!
 # Source: 
