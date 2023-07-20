@@ -47,6 +47,9 @@ Skill Demonstrated:
 * Agggregate
 * Joins
 * Subquery
+
+*Uncovering Demand & Supply Gaps: This uses the customers preferred cuisines and the restaurant's cuisines to check if the supply meets the demand.
+
 # Conclusion
 "Gastronomic Insights - Unveiling the Flavors of Mexico" embarks on a journey through the vibrant Mexican culinary landscape, backed by data and fueled by curiosity. By leveraging data analytics and SQL, this project seeks to unravel the secrets of successful restaurants, consumer preferences, and hidden opportunities, all while painting a vivid picture of the diverse and delicious world of Mexican cuisine. So let's embark on this tantalizing exploration, discovering new dimensions of gastronomy and making informed decisions for a flavor-packed future!
 # Source: 
